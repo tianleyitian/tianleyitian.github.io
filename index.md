@@ -7,7 +7,7 @@
 我还找到了两个破解软件的网站 [小刀娱乐网](https://www.x6d.com/) 和 [爱分享](http://itjcc.com/)
 ### 滑稽
 
-[google](www.google.com)是一个好的浏览器，但是你可能用不了，
+[google](https://www.google.com/)是一个好的浏览器，但是你可能用不了，
 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
