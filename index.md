@@ -2,7 +2,7 @@
 
 欢迎来到我的网站
 
- 你可以使用 [百度](www.baidu.com) 搜索东西
+ 你可以使用 [百度](https://www.baidu.com/) 搜索东西
 
 我还找到了两个破解软件的网站 [小刀娱乐网](https://www.x6d.com/) 和 [爱分享](http://itjcc.com/)
 ### 滑稽
