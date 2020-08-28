@@ -1,10 +1,14 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/tianleyitian/username.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+欢迎来到我的网站
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+ 你可以使用 [百度](www.baidu.com) 搜索东西
 
-### Markdown
+我还找到了两个破解软件的网站 [小刀娱乐网](https://www.x6d.com/) 和 [爱分享](http://itjcc.com/)
+### 滑稽
+
+[google](www.google.com)是一个好的浏览器，但是你可能用不了，
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
